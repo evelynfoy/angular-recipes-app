@@ -2,7 +2,7 @@
 
 This is a project I built from a starting setup supplied by the angular course I studied - Angular - The Complete Guide (2023 Edition)
 
-I downloaded the starting project and followeed the projects steps in the course to build the final result.
+I downloaded the starting project and followed the projects steps in the course to build the final result.
 
 Here are some screenshots of the final project
 
