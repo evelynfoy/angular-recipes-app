@@ -6,6 +6,8 @@ I downloaded the starting project and followed the projects steps in the course 
 
 Here are some screenshots of the final project
 
+![DetailRecipe](docs/images/LoginSignUp.png) 
+![DetailRecipe](docs/images/Recipes.png) 
 ![DetailRecipe](docs/images/DetailRecipe.png) 
 ![DetailRecipe](docs/images/DetailEdit.png) 
 ![DetailRecipe](docs/images/ShoppingList.png) 
